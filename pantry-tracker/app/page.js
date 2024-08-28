@@ -63,7 +63,9 @@ export default function Home() {
       alignItems="center"
       gap={2}
     >
-      <Modal open={open} onClose={handleClose}>
+      <Modal 
+        open={open} 
+        onClose={handleClose}>
         <Box
           position="absolute"
           top="50%"
