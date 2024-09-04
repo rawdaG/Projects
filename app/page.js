@@ -137,7 +137,7 @@ export default function Home() {
             <Box
               key={name}
               width="100%"
-              minHeight="120px" // Reduced height
+              minHeight="120px" // Reduced heightt
               display="flex"
               alignItems="center"
               justifyContent="space-between"
